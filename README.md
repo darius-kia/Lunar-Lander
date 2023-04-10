@@ -1,2 +1,2 @@
 # Lunar-Lander
-Deep-Q Learning Network for Lunar Lander environment from OpenAI Gym.
+Deep-Q Learning Network trained on the Lunar Lander environment from OpenAI Gym.
